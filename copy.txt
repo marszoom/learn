@@ -1,9 +1,4 @@
-this is a test txt
-
-there is nothing.
-
-the 2nd time edit.
-
-the 3rd time edit.
-
-the 4th time edit.
+1st line
+2nd line
+3rd line
+4th line
